@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhammadfawwaz2021@gmail.com 
 - 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: State bank of verities
 
 <!---
 Fawwaz-rz/Fawwaz-rz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
