@@ -8,5 +8,4 @@
 
 
 
-Languages: ![C++](https://img.shields.io/badge/-Python-blue)
-Stars: ![Stars](https://img.shields.io/github/stars/antonydavidx/chess-clock?style=social)
+
